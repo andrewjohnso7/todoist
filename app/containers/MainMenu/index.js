@@ -19,7 +19,7 @@ class MainMenu extends React.Component {
     return (
       <PrimaryView>
         <GlobalFonts />
-        <Title>Category Select</Title>
+        <Title>Select Category</Title>
         <Category>To Do Now</Category>
         <CategoryTwo>To Do Tomorrow</CategoryTwo>
         <CategoryThree>Completed</CategoryThree>
